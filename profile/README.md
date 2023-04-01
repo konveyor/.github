@@ -24,7 +24,7 @@ Join our Community to stay up to date on developments.
 * Join https://groups.google.com/g/konveyorio for information on new Releases and MeetUps.
 * Join https://groups.google.com/g/konveyor-community for deeper insights into the development work, with recordings and invites to our public Thursday community [meetings](https://github.com/konveyor/community#meetings).
   * See our prior [community meetings on YouTube](https://www.youtube.com/watch?v=sB0llm1ef8E&list=PL4aUFFbk56EOWBwS9qvEKDn8CAMXDfdw0) for demonstrations of new features
-* Share your experiences with modernization problems and particpate in our [migration experience user group](https://github.com/konveyor/community/tree/main/ug-migration-experience) focused on bringing learnings back into Konveyor to help ease future migration work. 
+* Share your experiences with modernization problems and participate in our [migration experience user group](https://github.com/konveyor/community/tree/main/ug-migration-experience) focused on bringing learnings back into Konveyor to help ease future migration work. 
 * Join as a contributor to coding, documentation, or other interests via our [Special Interest Groups](https://github.com/konveyor/community#konveyor-sig-meetings).
 * Ask us a question in kubernetes.slack.com:  (Get a slack invite via: https://slack.k8s.io/)
   * #[konveyor](https://kubernetes.slack.com/archives/CR85S82A2): General questions and discussions

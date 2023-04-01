@@ -2,7 +2,7 @@
 
 ## Konveyor aims to surface insights on applications at scale to empower enterprise architects to make better-informed decisions related to modernization activities
 
-![alt_text](img/konveyor_header.png "image_tooltip")
+![alt_text](/profile/img/konveyor_header.png "image_tooltip")
 
 ## Overview
 Konveyor is an open-source application modernization platform that helps organizations safely and predictably modernize applications to new technologies, with an initial focus on accelerating the adoption of legacy applications to Kubernetes.
@@ -30,7 +30,7 @@ Accelerate the adoption of Kubernetes by helping organizations modernize their l
 * See existing Konveyor RFEs [konveyor/enhancements/issues](https://github.com/konveyor/enhancements/issues)
 
 ## CNCF Project
-![alt_text](img/cncf_icon.png "image_tooltip")
+![alt_text](/profile/img/cncf_icon.png "image_tooltip")
 * https://www.cncf.io/projects/konveyor/
   * Konveyor was accepted to CNCF on July 26, 2022 and is at the Sandbox project maturity level.
 

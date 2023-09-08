@@ -39,6 +39,7 @@ Join our Community to stay up to date on developments.
 * Read the project's [Charter.md](https://github.com/konveyor/community/blob/main/Charter.md)
 * Read Konveyor's technical design documentation in [konveyor/enhancements/enhancements](https://github.com/konveyor/enhancements/tree/master/enhancements)
 * See existing Konveyor RFEs [konveyor/enhancements/issues](https://github.com/konveyor/enhancements/issues)
+* Our [Roadmap](https://github.com/konveyor/enhancements/blob/master/ROADMAP.md)
 
 ## YouTube
 * [Konveyor's YouTube channel](https://www.youtube.com/@konveyor361/videos)

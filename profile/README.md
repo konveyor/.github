@@ -34,7 +34,7 @@ Join our Community to stay up to date on developments.
 ## Next steps to read more about Konveyor
 
 * See an example of Konveyor in Action: [konveyor/example-applications/example-1](https://github.com/konveyor/example-applications/tree/main/example-1)
-* Get Started by [deploying the Konveyor Operator](https://github.com/konveyor/tackle2-operator#tackle-operator-installation-on-k8s)
+* Get Started by [deploying the Konveyor Operator](https://github.com/konveyor/operator#konveyor-operator-installation-on-k8s)
 * Read about Konveyor's [Unified Experience](https://github.com/konveyor/enhancements/tree/master/enhancements/unified_experience)
 * Read the project's [Charter.md](https://github.com/konveyor/community/blob/main/Charter.md)
 * Read Konveyor's technical design documentation in [konveyor/enhancements/enhancements](https://github.com/konveyor/enhancements/tree/master/enhancements)
